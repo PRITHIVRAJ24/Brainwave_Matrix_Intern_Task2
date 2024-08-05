@@ -1,6 +1,6 @@
-# news
+# news_reader
 
-A new Flutter project.
+flutter based News Reader Application
 
 ## Getting Started
 
